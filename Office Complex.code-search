@@ -1,0 +1,22 @@
+# Query: Office Complex
+# ContextLines: 1
+
+7 results - 2 files
+
+index.html:
+  1885  
+  1886:         <div class="gallery-item" data-category="commercial" data-title="Office Complex Repaint" data-src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=90">
+  1887:           <img src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80" alt="Office Complex Repaint" loading="lazy" />
+  1888            <div class="gallery-item-overlay">
+  1889              <span class="overlay-tag">Commercial</span>
+  1890:             <span class="overlay-title">Office Complex Repaint</span>
+  1891              <div class="overlay-zoom"><svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14zm.5-7H9v2H7v1h2v2h1v-2h2V9h-2z"/></svg></div>
+
+C:\Users\user\Desktop\new version\index.html:
+  608        <div class="gallery-grid" id="galleryGrid">
+  609:         <div class="gallery-item" data-category="commercial" data-title="Office Complex Repaint" data-src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=1200&q=90"><img src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=600&q=80" alt="Office Complex" loading="lazy"/><div class="gallery-item-overlay"><span class="overlay-tag">Commercial</span><span class="overlay-title">Office Complex Repaint</span><div class="overlay-zoom"><svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14zm.5-7H9v2H7v1h2v2h1v-2h2V9h-2z"/></svg></div></div></div>
+  610          <div class="gallery-item" data-category="residential" data-title="Modern Villa Exterior" data-src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&q=90"><img src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80" alt="Villa Exterior" loading="lazy"/><div class="gallery-item-overlay"><span class="overlay-tag">Residential</span><span class="overlay-title">Modern Villa Exterior</span><div class="overlay-zoom"><svg viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14zm.5-7H9v2H7v1h2v2h1v-2h2V9h-2z"/></svg></div></div></div>
+
+  855            <div class="upload-fields">
+  856:             <div class="admin-field"><label>Project Title</label><input type="text" id="up-title" placeholder="e.g. Office Complex KSF" /></div>
+  857              <div class="admin-field"><label>Category</label><select id="up-cat"><option value="commercial">Commercial</option><option value="residential">Residential</option><option value="industrial">Industrial</option></select></div>
